@@ -3,7 +3,7 @@
 using namespace std; 
 int main() 
 { 
-    string str="Journal Dev reverse example"; 
+    string str="compatative programming"; 
     int i;
     cout<<"Printing string in reverse\n";
     for(i = str.length() - 1; i >= 0; i--)
